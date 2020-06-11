@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/ReactJSQuanLyTodoRedux/static/js/main.e02b719e.chunk.js",
+    "main.js.map": "/ReactJSQuanLyTodoRedux/static/js/main.e02b719e.chunk.js.map",
+    "runtime-main.js": "/ReactJSQuanLyTodoRedux/static/js/runtime-main.e825a893.js",
+    "runtime-main.js.map": "/ReactJSQuanLyTodoRedux/static/js/runtime-main.e825a893.js.map",
+    "static/js/2.91c4377a.chunk.js": "/ReactJSQuanLyTodoRedux/static/js/2.91c4377a.chunk.js",
+    "static/js/2.91c4377a.chunk.js.map": "/ReactJSQuanLyTodoRedux/static/js/2.91c4377a.chunk.js.map",
+    "index.html": "/ReactJSQuanLyTodoRedux/index.html",
+    "precache-manifest.e4a89589dc72c4255336c1fe66dffcc3.js": "/ReactJSQuanLyTodoRedux/precache-manifest.e4a89589dc72c4255336c1fe66dffcc3.js",
+    "service-worker.js": "/ReactJSQuanLyTodoRedux/service-worker.js",
+    "static/js/2.91c4377a.chunk.js.LICENSE.txt": "/ReactJSQuanLyTodoRedux/static/js/2.91c4377a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e825a893.js",
+    "static/js/2.91c4377a.chunk.js",
+    "static/js/main.e02b719e.chunk.js"
+  ]
+}
